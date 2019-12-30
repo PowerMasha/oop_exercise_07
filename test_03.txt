@@ -1,0 +1,10 @@
+create Power.txt
+add square 0 0 0 1 1 1 1 0 
+print
+save
+remove 0
+load Power.txt
+print
+undo
+exit
+

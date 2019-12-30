@@ -1,0 +1,7 @@
+create ss.txt
+add square 1 1 1 1 1 1 1 1 1 1
+remove 0
+undo
+save
+print
+exit

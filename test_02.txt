@@ -1,0 +1,20 @@
+create Masha.txt
+add trapez 0 0 1 2 3 2 4 0
+add square 0 0 0 0 0 0 0 0 
+add rectangle 1 1 1 1 1 1 1 1
+print
+save
+remove 1
+remove 0
+undo 
+undo
+add square 0 0 0 1 1 1 1 0
+undo
+undo
+print
+undo
+print
+undo
+print
+undo
+exit
